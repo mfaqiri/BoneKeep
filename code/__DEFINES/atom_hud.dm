@@ -4,7 +4,7 @@
 //by default everything in the hud_list of an atom is an image
 //a value in hud_list with one of these will change that behavior
 #define HUD_LIST_LIST 1
-//rogue and vanderlin
+//rogue and osseus
 #define ROGUE_HUD_MARRIED "antag_hud_married"
 #define ANTAG_HUD_HIDDEN "antag_hud_hidden"
 #define ANTAG_HUD_GENERIC "antag_hud_generic"

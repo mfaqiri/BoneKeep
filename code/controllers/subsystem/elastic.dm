@@ -66,7 +66,7 @@ SUBSYSTEM_DEF(elastic)
 	compiled["round_id"] = GLOB.rogue_round_id // if you are on literally any other server change this to a text2num(GLOB.round_id)
 	compiled |= assoc_list_data // you see why this needs to be an assoc list now?
 
-	// down here is specific to vanderlin so if you are porting this you can take this out
+	// down here is specific to osseus so if you are porting this you can take this out
 	compiled["round_data"] = get_round_data()
 
 	assoc_list_data = list()
@@ -80,12 +80,12 @@ SUBSYSTEM_DEF(elastic)
 	for(var/patron_name in GLOB.patron_follower_counts)
 		round_data["[patron_name]_followers"] = GLOB.patron_follower_counts[patron_name]
 
-	round_data[STATS_BLOOD_SPILT] = round(GLOB.vanderlin_round_stats[STATS_BLOOD_SPILT] / 100, 1)
+	round_data[STATS_BLOOD_SPILT] = round(GLOB.osseus_round_stats[STATS_BLOOD_SPILT] / 100, 1)
 
-	for(var/stat in GLOB.vanderlin_round_stats)
+	for(var/stat in GLOB.osseus_round_stats)
 		if(stat in special_stats)
 			continue
-		round_data[stat] = GLOB.vanderlin_round_stats[stat]
+		round_data[stat] = GLOB.osseus_round_stats[stat]
 
 	return round_data
 

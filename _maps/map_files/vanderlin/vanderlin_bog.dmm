@@ -2116,8 +2116,8 @@
 /area/rogue/outdoors/mountains)
 "Cu" = (
 /obj/structure/fluff/traveltile{
-	aportalgoesto = "vanderlin-bog_mountain-mountain";
-	aportalid = "vanderlin-bog_mountain-bog"
+	aportalgoesto = "osseus-bog_mountain-mountain";
+	aportalid = "osseus-bog_mountain-bog"
 	},
 /turf/open/floor/cobblerock,
 /area/rogue/indoors/cave)
@@ -2359,8 +2359,8 @@
 /area/rogue/indoors/shelter/bog)
 "Fx" = (
 /obj/structure/fluff/traveltile{
-	aportalgoesto = "vanderlin-bog_mountain-mountain";
-	aportalid = "vanderlin-bog_mountain-bog"
+	aportalgoesto = "osseus-bog_mountain-mountain";
+	aportalid = "osseus-bog_mountain-bog"
 	},
 /turf/open/floor/naturalstone,
 /area/rogue/indoors/cave)
@@ -2818,8 +2818,8 @@
 /area/rogue/indoors/shelter/bog)
 "Nb" = (
 /obj/structure/fluff/traveltile{
-	aportalgoesto = "vanderlin-forest_bog-forest";
-	aportalid = "vanderlin-forest_bog-bog"
+	aportalgoesto = "osseus-forest_bog-forest";
+	aportalid = "osseus-forest_bog-bog"
 	},
 /turf/open/floor/dirt/road,
 /area/rogue/outdoors/bog)
@@ -2869,8 +2869,8 @@
 /area/rogue/indoors/cave)
 "NA" = (
 /obj/structure/fluff/traveltile{
-	aportalgoesto = "vanderlin-bog_town-town";
-	aportalid = "vanderlin-bog_town-bog"
+	aportalgoesto = "osseus-bog_town-town";
+	aportalid = "osseus-bog_town-bog"
 	},
 /turf/open/floor/dirt/road,
 /area/rogue/outdoors/bog)
@@ -3677,8 +3677,8 @@
 /area/rogue/indoors/shelter/bog)
 "XB" = (
 /obj/structure/fluff/traveltile{
-	aportalgoesto = "vanderlin-forest_bog-forest2";
-	aportalid = "vanderlin-forest_bog-bog2"
+	aportalgoesto = "osseus-forest_bog-forest2";
+	aportalid = "osseus-forest_bog-bog2"
 	},
 /turf/open/floor/cobblerock,
 /area/rogue/outdoors/bog)
@@ -3731,8 +3731,8 @@
 /area/rogue/indoors/shelter/bog)
 "YD" = (
 /obj/structure/fluff/traveltile{
-	aportalgoesto = "vanderlin-bog_mountain-mountain2";
-	aportalid = "vanderlin-bog_mountain-bog2"
+	aportalgoesto = "osseus-bog_mountain-mountain2";
+	aportalid = "osseus-bog_mountain-bog2"
 	},
 /turf/open/floor/cobble,
 /area/rogue/outdoors/bog)

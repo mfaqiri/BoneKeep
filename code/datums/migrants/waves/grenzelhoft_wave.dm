@@ -1,6 +1,6 @@
 /datum/migrant_role/grenzelhoft/count
 	name = "Grenzelhoft Count"
-	greet_text = "A Count hailing from the Grenzelhoft Imperiate, here on an official visit to the Peninsula of Vanderlin alongside his beloved convoy and spouse."
+	greet_text = "A Count hailing from the Grenzelhoft Imperiate, here on an official visit to the Peninsula of Osseus alongside his beloved convoy and spouse."
 	allowed_sexes = list(MALE)
 	allowed_races = RACES_PLAYER_GRENZ
 	outfit = /datum/outfit/job/grenzelhoft_migration/count
@@ -219,7 +219,7 @@
 		/datum/migrant_role/grenzelhoft/countess = 1,
 		/datum/migrant_role/grenzelhoft/grenzelhoft_knight = 1,
 		/datum/migrant_role/grenzelhoft/grenzelhoft_men_at_arms = 2)
-	greet_text = "The Kaiser of the Grenzelhoft Imperiate has sent a diplomatic envoy to engage into diplomacy within the Kingdom of Vanderlin."
+	greet_text = "The Kaiser of the Grenzelhoft Imperiate has sent a diplomatic envoy to engage into diplomacy within the Kingdom of Osseus."
 
 /datum/migrant_wave/grenzelhoft_visit_down
 	name = "The Grenzelhoft visit"
@@ -230,4 +230,4 @@
 		/datum/migrant_role/grenzelhoft/count = 1,
 		/datum/migrant_role/grenzelhoft/countess = 1,
 		/datum/migrant_role/grenzelhoft/grenzelhoft_knight = 1)
-	greet_text = "The Kaiser of the Grenzelhoft Imperiate has sent a diplomatic envoy to engage into diplomacy within the Kingdom of Vanderlin."
+	greet_text = "The Kaiser of the Grenzelhoft Imperiate has sent a diplomatic envoy to engage into diplomacy within the Kingdom of Osseus."

@@ -293,7 +293,7 @@
 
 /obj/item/reagent_containers/food/snacks/cooked/griddledog
 	name = "griddledog"
-	desc = "A classic piece of Grenzlehoftian street food, the fried butterdough is a Vanderlinian adulteration."
+	desc = "A classic piece of Grenzlehoftian street food, the fried butterdough is a Osseusian adulteration."
 	list_reagents = list(/datum/reagent/consumable/nutriment = SAUSAGE_NUTRITION+BUTTERDOUGHSLICE_NUTRITION+2)
 	icon_state = "griddledog"
 	tastes = list("savory sausage" = 2, "crispy butterdough" = 1)

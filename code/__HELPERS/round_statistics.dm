@@ -151,7 +151,7 @@
 #define STATS_DODGES "dodges"
 #define STATS_LOCKS_PICKED "locks_picked"
 
-GLOBAL_LIST_INIT(vanderlin_round_stats, list(
+GLOBAL_LIST_INIT(osseus_round_stats, list(
 	STATS_DEATHS = 0,
 	STATS_NOBLE_DEATHS = 0,
 	STATS_MOAT_FALLERS = 0,

@@ -3,7 +3,7 @@
 	f_title = "Priestess"
 	tutorial = "You are a devoted follower of Astrata. \
 	The divine is all that matters in an immoral world. \
-	The Sun Queen and her pantheon rule over all, and you will preach their wisdom to Vanderlin. \
+	The Sun Queen and her pantheon rule over all, and you will preach their wisdom to Osseus. \
 	It is up to you to shephard the flock into a Ten-fearing future."
 	flag = PRIEST
 	department_flag = CHURCHMEN

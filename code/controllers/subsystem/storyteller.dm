@@ -1313,50 +1313,50 @@ SUBSYSTEM_DEF(gamemode)
 
 	GLOB.featured_stats[FEATURED_STATS_FLAWS]["entries"] = list()
 
-	GLOB.vanderlin_round_stats[STATS_TOTAL_POPULATION] = 0
-	GLOB.vanderlin_round_stats[STATS_PSYCROSS_USERS] = 0
-	GLOB.vanderlin_round_stats[STATS_ALIVE_NOBLES] = 0
-	GLOB.vanderlin_round_stats[STATS_ALIVE_GARRISON] = 0
-	GLOB.vanderlin_round_stats[STATS_ALIVE_CLERGY] = 0
-	GLOB.vanderlin_round_stats[STATS_ALIVE_TRADESMEN] = 0
-	GLOB.vanderlin_round_stats[STATS_ILLITERATES] = 0
-	GLOB.vanderlin_round_stats[STATS_WEREVOLVES] = 0
-	GLOB.vanderlin_round_stats[STATS_VAMPIRES] = 0
-	GLOB.vanderlin_round_stats[STATS_DEADITES_ALIVE] = 0
+	GLOB.osseus_round_stats[STATS_TOTAL_POPULATION] = 0
+	GLOB.osseus_round_stats[STATS_PSYCROSS_USERS] = 0
+	GLOB.osseus_round_stats[STATS_ALIVE_NOBLES] = 0
+	GLOB.osseus_round_stats[STATS_ALIVE_GARRISON] = 0
+	GLOB.osseus_round_stats[STATS_ALIVE_CLERGY] = 0
+	GLOB.osseus_round_stats[STATS_ALIVE_TRADESMEN] = 0
+	GLOB.osseus_round_stats[STATS_ILLITERATES] = 0
+	GLOB.osseus_round_stats[STATS_WEREVOLVES] = 0
+	GLOB.osseus_round_stats[STATS_VAMPIRES] = 0
+	GLOB.osseus_round_stats[STATS_DEADITES_ALIVE] = 0
 
-	GLOB.vanderlin_round_stats[STATS_ALCOHOLICS] = 0
-	GLOB.vanderlin_round_stats[STATS_JUNKIES] = 0
-	GLOB.vanderlin_round_stats[STATS_KLEPTOMANIACS] = 0
-	GLOB.vanderlin_round_stats[STATS_GREEDY_PEOPLE] = 0
-	GLOB.vanderlin_round_stats[STATS_PARENTS] = 0
-	GLOB.vanderlin_round_stats[STATS_PACIFISTS] = 0
-	GLOB.vanderlin_round_stats[STATS_MARRIED] = 0
+	GLOB.osseus_round_stats[STATS_ALCOHOLICS] = 0
+	GLOB.osseus_round_stats[STATS_JUNKIES] = 0
+	GLOB.osseus_round_stats[STATS_KLEPTOMANIACS] = 0
+	GLOB.osseus_round_stats[STATS_GREEDY_PEOPLE] = 0
+	GLOB.osseus_round_stats[STATS_PARENTS] = 0
+	GLOB.osseus_round_stats[STATS_PACIFISTS] = 0
+	GLOB.osseus_round_stats[STATS_MARRIED] = 0
 
-	GLOB.vanderlin_round_stats[STATS_MALE_POPULATION] = 0
-	GLOB.vanderlin_round_stats[STATS_FEMALE_POPULATION] = 0
-	GLOB.vanderlin_round_stats[STATS_OTHER_GENDER] = 0
+	GLOB.osseus_round_stats[STATS_MALE_POPULATION] = 0
+	GLOB.osseus_round_stats[STATS_FEMALE_POPULATION] = 0
+	GLOB.osseus_round_stats[STATS_OTHER_GENDER] = 0
 
-	GLOB.vanderlin_round_stats[STATS_CHILD_POPULATION] = 0
-	GLOB.vanderlin_round_stats[STATS_ADULT_POPULATION] = 0
-	GLOB.vanderlin_round_stats[STATS_MIDDLEAGED_POPULATION] = 0
-	GLOB.vanderlin_round_stats[STATS_ELDERLY_POPULATION] = 0
-	GLOB.vanderlin_round_stats[STATS_IMMORTAL_POPULATION] = 0
+	GLOB.osseus_round_stats[STATS_CHILD_POPULATION] = 0
+	GLOB.osseus_round_stats[STATS_ADULT_POPULATION] = 0
+	GLOB.osseus_round_stats[STATS_MIDDLEAGED_POPULATION] = 0
+	GLOB.osseus_round_stats[STATS_ELDERLY_POPULATION] = 0
+	GLOB.osseus_round_stats[STATS_IMMORTAL_POPULATION] = 0
 
 	// Races count
-	GLOB.vanderlin_round_stats[STATS_ALIVE_TIEFLINGS] = 0
-	GLOB.vanderlin_round_stats[STATS_ALIVE_NORTHERN_HUMANS] = 0
-	GLOB.vanderlin_round_stats[STATS_ALIVE_DWARVES] = 0
-	GLOB.vanderlin_round_stats[STATS_ALIVE_DARK_ELVES] = 0
-	GLOB.vanderlin_round_stats[STATS_ALIVE_SNOW_ELVES] = 0
-	GLOB.vanderlin_round_stats[STATS_ALIVE_HALF_ELVES] = 0
-	GLOB.vanderlin_round_stats[STATS_ALIVE_HALF_DROWS] = 0
-	GLOB.vanderlin_round_stats[STATS_ALIVE_HALF_ORCS] = 0
-	GLOB.vanderlin_round_stats[STATS_ALIVE_KOBOLDS] = 0
-	GLOB.vanderlin_round_stats[STATS_ALIVE_RAKSHARI] = 0
-	GLOB.vanderlin_round_stats[STATS_ALIVE_AASIMAR] = 0
-	GLOB.vanderlin_round_stats[STATS_ALIVE_HOLLOWKINS] = 0
-	GLOB.vanderlin_round_stats[STATS_ALIVE_HARPIES] = 0
-	GLOB.vanderlin_round_stats[STATS_ALIVE_TRITONS] = 0
+	GLOB.osseus_round_stats[STATS_ALIVE_TIEFLINGS] = 0
+	GLOB.osseus_round_stats[STATS_ALIVE_NORTHERN_HUMANS] = 0
+	GLOB.osseus_round_stats[STATS_ALIVE_DWARVES] = 0
+	GLOB.osseus_round_stats[STATS_ALIVE_DARK_ELVES] = 0
+	GLOB.osseus_round_stats[STATS_ALIVE_SNOW_ELVES] = 0
+	GLOB.osseus_round_stats[STATS_ALIVE_HALF_ELVES] = 0
+	GLOB.osseus_round_stats[STATS_ALIVE_HALF_DROWS] = 0
+	GLOB.osseus_round_stats[STATS_ALIVE_HALF_ORCS] = 0
+	GLOB.osseus_round_stats[STATS_ALIVE_KOBOLDS] = 0
+	GLOB.osseus_round_stats[STATS_ALIVE_RAKSHARI] = 0
+	GLOB.osseus_round_stats[STATS_ALIVE_AASIMAR] = 0
+	GLOB.osseus_round_stats[STATS_ALIVE_HOLLOWKINS] = 0
+	GLOB.osseus_round_stats[STATS_ALIVE_HARPIES] = 0
+	GLOB.osseus_round_stats[STATS_ALIVE_TRITONS] = 0
 
 	for(var/client/client in GLOB.clients)
 		if(roundstart)
@@ -1372,100 +1372,100 @@ SUBSYSTEM_DEF(gamemode)
 			if(living.patron)
 				GLOB.patron_follower_counts[living.patron.name]++
 				if(living.job == "Monarch")
-					GLOB.vanderlin_round_stats[STATS_MONARCH_PATRON] = "[living.patron.name]"
+					GLOB.osseus_round_stats[STATS_MONARCH_PATRON] = "[living.patron.name]"
 		if(living.mind.has_antag_datum(/datum/antagonist/werewolf))
-			GLOB.vanderlin_round_stats[STATS_WEREVOLVES]++
+			GLOB.osseus_round_stats[STATS_WEREVOLVES]++
 		if(living.mind.has_antag_datum(/datum/antagonist/vampire))
-			GLOB.vanderlin_round_stats[STATS_VAMPIRES]++
+			GLOB.osseus_round_stats[STATS_VAMPIRES]++
 		if(living.mind.has_antag_datum(/datum/antagonist/zombie) || living.mind.has_antag_datum(/datum/antagonist/skeleton) || living.mind.has_antag_datum(/datum/antagonist/lich))
-			GLOB.vanderlin_round_stats[STATS_DEADITES_ALIVE]++
+			GLOB.osseus_round_stats[STATS_DEADITES_ALIVE]++
 		if(ishuman(living))
 			var/mob/living/carbon/human/human_mob = client.mob
-			GLOB.vanderlin_round_stats[STATS_TOTAL_POPULATION]++
+			GLOB.osseus_round_stats[STATS_TOTAL_POPULATION]++
 			for(var/obj/item/clothing/neck/current_item in human_mob.get_equipped_items(TRUE))
 				if(current_item.type in list(/obj/item/clothing/neck/psycross, /obj/item/clothing/neck/psycross/silver, /obj/item/clothing/neck/psycross/g))
-					GLOB.vanderlin_round_stats[STATS_PSYCROSS_USERS]++
+					GLOB.osseus_round_stats[STATS_PSYCROSS_USERS]++
 					break
 			switch(human_mob.gender)
 				if(MALE)
-					GLOB.vanderlin_round_stats[STATS_MALE_POPULATION]++
+					GLOB.osseus_round_stats[STATS_MALE_POPULATION]++
 				if(FEMALE)
-					GLOB.vanderlin_round_stats[STATS_FEMALE_POPULATION]++
+					GLOB.osseus_round_stats[STATS_FEMALE_POPULATION]++
 				else
-					GLOB.vanderlin_round_stats[STATS_OTHER_GENDER]++
+					GLOB.osseus_round_stats[STATS_OTHER_GENDER]++
 			switch(human_mob.age)
 				if(AGE_CHILD)
-					GLOB.vanderlin_round_stats[STATS_CHILD_POPULATION]++
+					GLOB.osseus_round_stats[STATS_CHILD_POPULATION]++
 				if(AGE_ADULT)
-					GLOB.vanderlin_round_stats[STATS_ADULT_POPULATION]++
+					GLOB.osseus_round_stats[STATS_ADULT_POPULATION]++
 				if(AGE_MIDDLEAGED)
-					GLOB.vanderlin_round_stats[STATS_MIDDLEAGED_POPULATION]++
+					GLOB.osseus_round_stats[STATS_MIDDLEAGED_POPULATION]++
 				if(AGE_OLD)
-					GLOB.vanderlin_round_stats[STATS_ELDERLY_POPULATION]++
+					GLOB.osseus_round_stats[STATS_ELDERLY_POPULATION]++
 				if(AGE_IMMORTAL)
-					GLOB.vanderlin_round_stats[STATS_IMMORTAL_POPULATION]++
+					GLOB.osseus_round_stats[STATS_IMMORTAL_POPULATION]++
 			if(human_mob.charflaw)
 				record_featured_object_stat(FEATURED_STATS_FLAWS, human_mob.charflaw.name)
 			if(human_mob.is_noble())
-				GLOB.vanderlin_round_stats[STATS_ALIVE_NOBLES]++
+				GLOB.osseus_round_stats[STATS_ALIVE_NOBLES]++
 			if(human_mob.mind.assigned_role.title in GLOB.garrison_positions)
-				GLOB.vanderlin_round_stats[STATS_ALIVE_GARRISON]++
+				GLOB.osseus_round_stats[STATS_ALIVE_GARRISON]++
 			if(human_mob.mind.assigned_role.title in GLOB.church_positions)
-				GLOB.vanderlin_round_stats[STATS_ALIVE_CLERGY]++
+				GLOB.osseus_round_stats[STATS_ALIVE_CLERGY]++
 			if((human_mob.mind.assigned_role.title in GLOB.serf_positions) || (human_mob.mind.assigned_role.title in GLOB.peasant_positions) || (human_mob.mind.assigned_role.title in GLOB.company_positions))
-				GLOB.vanderlin_round_stats[STATS_ALIVE_TRADESMEN]++
+				GLOB.osseus_round_stats[STATS_ALIVE_TRADESMEN]++
 			if(!human_mob.is_literate())
-				GLOB.vanderlin_round_stats[STATS_ILLITERATES]++
+				GLOB.osseus_round_stats[STATS_ILLITERATES]++
 			if(human_mob.has_flaw(/datum/charflaw/addiction/alcoholic))
-				GLOB.vanderlin_round_stats[STATS_ALCOHOLICS]++
+				GLOB.osseus_round_stats[STATS_ALCOHOLICS]++
 			if(human_mob.has_flaw(/datum/charflaw/addiction/junkie))
-				GLOB.vanderlin_round_stats[STATS_JUNKIES]++
+				GLOB.osseus_round_stats[STATS_JUNKIES]++
 			if(human_mob.has_flaw(/datum/charflaw/addiction/kleptomaniac))
-				GLOB.vanderlin_round_stats[STATS_KLEPTOMANIACS]++
+				GLOB.osseus_round_stats[STATS_KLEPTOMANIACS]++
 			if(human_mob.has_flaw(/datum/charflaw/greedy))
-				GLOB.vanderlin_round_stats[STATS_GREEDY_PEOPLE]++
+				GLOB.osseus_round_stats[STATS_GREEDY_PEOPLE]++
 			if(HAS_TRAIT_NOT_FROM(human_mob, TRAIT_PACIFISM, "hugbox"))
-				GLOB.vanderlin_round_stats[STATS_PACIFISTS]++
+				GLOB.osseus_round_stats[STATS_PACIFISTS]++
 			if(human_mob.family_datum && human_mob.family_member_datum)
 				var/datum/family_member/member = human_mob.family_member_datum
 
 				// Check if they have children (making them a parent)
 				if(member.children.len > 0)
-					GLOB.vanderlin_round_stats[STATS_PARENTS]++
+					GLOB.osseus_round_stats[STATS_PARENTS]++
 
 				// Check if married or has children
 				if(human_mob.IsWedded() || member.children.len > 0)
-					GLOB.vanderlin_round_stats[STATS_MARRIED]++
+					GLOB.osseus_round_stats[STATS_MARRIED]++
 
 			// Races
 			if(istiefling(human_mob))
-				GLOB.vanderlin_round_stats[STATS_ALIVE_TIEFLINGS]++
+				GLOB.osseus_round_stats[STATS_ALIVE_TIEFLINGS]++
 			if(ishumannorthern(human_mob))
-				GLOB.vanderlin_round_stats[STATS_ALIVE_NORTHERN_HUMANS]++
+				GLOB.osseus_round_stats[STATS_ALIVE_NORTHERN_HUMANS]++
 			if(isdwarf(human_mob))
-				GLOB.vanderlin_round_stats[STATS_ALIVE_DWARVES]++
+				GLOB.osseus_round_stats[STATS_ALIVE_DWARVES]++
 			if(isdarkelf(human_mob))
-				GLOB.vanderlin_round_stats[STATS_ALIVE_DARK_ELVES]++
+				GLOB.osseus_round_stats[STATS_ALIVE_DARK_ELVES]++
 			if(issnowelf(human_mob))
-				GLOB.vanderlin_round_stats[STATS_ALIVE_SNOW_ELVES]++
+				GLOB.osseus_round_stats[STATS_ALIVE_SNOW_ELVES]++
 			if(ishalfelf(human_mob))
-				GLOB.vanderlin_round_stats[STATS_ALIVE_HALF_ELVES]++
+				GLOB.osseus_round_stats[STATS_ALIVE_HALF_ELVES]++
 			if(ishalfdrow(human_mob))
-				GLOB.vanderlin_round_stats[STATS_ALIVE_HALF_DROWS]++
+				GLOB.osseus_round_stats[STATS_ALIVE_HALF_DROWS]++
 			if(ishalforc(human_mob))
-				GLOB.vanderlin_round_stats[STATS_ALIVE_HALF_ORCS]++
+				GLOB.osseus_round_stats[STATS_ALIVE_HALF_ORCS]++
 			if(iskobold(human_mob))
-				GLOB.vanderlin_round_stats[STATS_ALIVE_KOBOLDS]++
+				GLOB.osseus_round_stats[STATS_ALIVE_KOBOLDS]++
 			if(israkshari(human_mob))
-				GLOB.vanderlin_round_stats[STATS_ALIVE_RAKSHARI]++
+				GLOB.osseus_round_stats[STATS_ALIVE_RAKSHARI]++
 			if(isaasimar(human_mob))
-				GLOB.vanderlin_round_stats[STATS_ALIVE_AASIMAR]++
+				GLOB.osseus_round_stats[STATS_ALIVE_AASIMAR]++
 			if(ishollowkin(human_mob))
-				GLOB.vanderlin_round_stats[STATS_ALIVE_HOLLOWKINS]++
+				GLOB.osseus_round_stats[STATS_ALIVE_HOLLOWKINS]++
 			if(isharpy(human_mob))
-				GLOB.vanderlin_round_stats[STATS_ALIVE_HARPIES]++
+				GLOB.osseus_round_stats[STATS_ALIVE_HARPIES]++
 			if(istriton(human_mob))
-				GLOB.vanderlin_round_stats[STATS_ALIVE_TRITONS]++
+				GLOB.osseus_round_stats[STATS_ALIVE_TRITONS]++
 
 /// Returns total follower influence for the given storyteller
 /datum/controller/subsystem/gamemode/proc/get_follower_influence(datum/storyteller/chosen_storyteller)
@@ -1502,7 +1502,7 @@ SUBSYSTEM_DEF(gamemode)
 		return
 
 	var/influence = 0
-	var/stat_value = GLOB.vanderlin_round_stats[statistic]
+	var/stat_value = GLOB.osseus_round_stats[statistic]
 	var/list/factors = initalized_storyteller.influence_factors[statistic]
 	var/modifier = factors["points"]
 	var/capacity = factors["capacity"]

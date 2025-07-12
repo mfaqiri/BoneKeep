@@ -7455,8 +7455,8 @@
 /area/rogue/indoors/town/cell)
 "dYP" = (
 /obj/structure/fluff/traveltile{
-	aportalgoesto = "vanderlin-bog_town-bog";
-	aportalid = "vanderlin-bog_town-town"
+	aportalgoesto = "osseus-bog_town-bog";
+	aportalid = "osseus-bog_town-town"
 	},
 /turf/open/floor/blocks,
 /area/rogue/under/cavewet)
@@ -10947,7 +10947,7 @@
 /area/rogue/under/cave)
 "fZK" = (
 /obj/effect/landmark/hammer/dev_text{
-	name = "Remind me to give consort a whip on vanderlin"
+	name = "Remind me to give consort a whip on osseus"
 	},
 /turf/open/floor/carpet/lord/center,
 /area/rogue/indoors/town/manor)

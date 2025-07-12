@@ -3,10 +3,10 @@
     "tasks": [
         {
             "type": "dreammaker",
-            "dme": "vanderlin.dme",
+            "dme": "osseus.dme",
             "problemMatcher": ["$dreammaker"],
             "group": "build",
-            "label": "dm: build - vanderlin.dme"
+            "label": "dm: build - osseus.dme"
         },
 
         {

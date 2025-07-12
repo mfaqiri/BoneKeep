@@ -1,4 +1,4 @@
-GLOBAL_LIST_INIT(vanderlin_weather, list(PARTICLEWEATHER_RAIN))
+GLOBAL_LIST_INIT(osseus_weather, list(PARTICLEWEATHER_RAIN))
 SUBSYSTEM_DEF(ParticleWeather)
 	name = "Particle Weather"
 	flags = SS_BACKGROUND
@@ -48,7 +48,7 @@ SUBSYSTEM_DEF(ParticleWeather)
 		var/target_trait = initial(W.target_trait)
 
 		// any weather with a probability set may occur at random
-		if (probability && (target_trait in GLOB.vanderlin_weather)) //TODO VANDERLIN: Map trait this.
+		if (probability && (target_trait in GLOB.osseus_weather)) //TODO VANDERLIN: Map trait this.
 			LAZYINITLIST(elligble_weather)
 			elligble_weather[W] = probability
 
@@ -56,7 +56,7 @@ SUBSYSTEM_DEF(ParticleWeather)
 		if("Rosewood")
 			selected_forecast = new /datum/forecast/rosewood()
 		else
-			selected_forecast = new /datum/forecast/vanderlin()
+			selected_forecast = new /datum/forecast/osseus()
 	selected_forecast.set_ambient_temperature(SSnightshift.current_tod ? SSnightshift.current_tod : settod())
 	return ..()
 

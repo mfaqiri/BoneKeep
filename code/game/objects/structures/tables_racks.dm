@@ -302,9 +302,9 @@
 	icon_state = "map_enigma"
 	desc = "A table displaying a map of Enigma."
 
-/obj/structure/table/map/vanderlin
-	icon_state = "map_vanderlin"
-	desc = "A table displaying a map of Vanderlin and Daftmarsh."
+/obj/structure/table/map/osseus
+	icon_state = "map_osseus"
+	desc = "A table displaying a map of Osseus and Daftmarsh."
 
 /obj/structure/table/map/rosewood
 	icon_state = "map_rosewood"
