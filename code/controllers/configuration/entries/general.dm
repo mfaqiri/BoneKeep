@@ -205,16 +205,16 @@
 /datum/config_entry/string/banappeals
 
 /datum/config_entry/string/wikiurl
-	config_entry_value = "https://wiki.monkestation.com/en/osseus"
+	config_entry_value = "https://github.com/The-Bone-Zone/BoneKeep/wiki"
 
 /datum/config_entry/string/forumurl
-	config_entry_value = ""
+	config_entry_value = "https://github.com/The-Bone-Zone/BoneKeep/wiki"
 
 /datum/config_entry/string/rulesurl
-	config_entry_value = "https://wiki.monkestation.com/osseus/rules"
+	config_entry_value = "https://github.com/The-Bone-Zone/BoneKeep/wiki"
 
 /datum/config_entry/string/githuburl
-	config_entry_value = "https://github.com/Osseus-Tales-Of-Wine/Osseus"
+	config_entry_value = "https://github.com/The-Bone-Zone/BoneKeep"
 
 /datum/config_entry/string/roundstatsurl
 

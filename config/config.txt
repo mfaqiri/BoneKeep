@@ -240,13 +240,13 @@ USEBLACKLIST
 # FORUMURL N/A
 
 ## Wiki address
-WIKIURL https://wiki.monkestation.com/en/osseus
+WIKIURL https://github.com/The-Bone-Zone/BoneKeep/wiki
 
 ## Rules address
-RULESURL https://wiki.monkestation.com/en/osseus/rules
+RULESURL https://github.com/The-Bone-Zone/BoneKeep/wiki
 
 ## Github address
-GITHUBURL https://github.com/Osseus-Tales-Of-Wine/Osseus
+GITHUBURL https://github.com/The-Bone-Zone/BoneKeep
 
 ## Round specific stats address
 ## Link to round specific parsed logs; IE statbus. It is appended with the RoundID automatically by ticker/Reboot()
@@ -265,7 +265,7 @@ GITHUBURL https://github.com/Osseus-Tales-Of-Wine/Osseus
 # GITHUBREPOID 3234987
 
 ## Ban appeals URL - usually for a forum or wherever people should go to contact your admins.
- BANAPPEALS https://discord.monkestation.com
+ BANAPPEALS https://discord.gg/nBXr96K
 
 ## System command that invokes youtube-dl, used by Play Internet Sound.
 ## You can install youtube-dl with

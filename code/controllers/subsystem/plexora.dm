@@ -3,7 +3,7 @@
  *
  * This subsystem is for the Plexora Discord bot bridge.
  *
- * The repo for this can be found at https://github.com/monkestation/plexora
+ *
  *
  * The distinction between Plexora (the bot) and Plexora (the subsystem)
  * will be plexora (the bot) and SSplexora (the subsystem)
