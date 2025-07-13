@@ -48,7 +48,7 @@ SUBSYSTEM_DEF(ParticleWeather)
 		var/target_trait = initial(W.target_trait)
 
 		// any weather with a probability set may occur at random
-		if (probability && (target_trait in GLOB.osseus_weather)) //TODO VANDERLIN: Map trait this.
+		if (probability && (target_trait in GLOB.osseus_weather)) //TODO OSSEUS: Map trait this.
 			LAZYINITLIST(elligble_weather)
 			elligble_weather[W] = probability
 

@@ -400,7 +400,7 @@
 	. = ..()
 	name = "mana binding gloves"
 	resistance_flags = FIRE_PROOF
-	///VANDERLIN TO DO
+	///OSSEUS TO DO
 
 /obj/item/clothing/gloves/nomagic/equipped(mob/living/user, slot)
 	if(active_item)

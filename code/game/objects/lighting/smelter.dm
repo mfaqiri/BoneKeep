@@ -62,7 +62,7 @@
 			return
 
 	if(istype(W, /obj/item/ore/coal))
-		if(alert(usr, "Fuel \the [src] with [W]?", "VANDERLIN", "Fuel", "Smelt") == "Fuel")
+		if(alert(usr, "Fuel \the [src] with [W]?", "OSSEUS", "Fuel", "Smelt") == "Fuel")
 			return ..()
 
 	if(istype(W, /obj/item/storage/crucible))

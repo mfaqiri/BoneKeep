@@ -1,4 +1,4 @@
-///VANDERLIN NOTE: This completely overrides generic storage.
+///OSSEUS NOTE: This completely overrides generic storage.
 
 /atom/proc/reset_grid_inventory()
 	var/drop_location = drop_location()

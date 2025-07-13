@@ -717,7 +717,7 @@ GLOBAL_LIST_EMPTY(respawncounts)
 			selection_w_title["[real_name], [H.get_role_title()]"] = ckey
 	if(!selection_w_title)
 		ASYNC {
-			browser_alert(src, "this dude really playing VANDERLIN all by themself lmfaoooo")
+			browser_alert(src, "this dude really playing OSSEUS all by themself lmfaoooo")
 		}
 	var/selection = browser_input_list(src, "WHO RECIEVES YOUR COMMENDATION?", null, shuffle(selection_w_title), pick(selection_w_title))
 	if(!selection)
