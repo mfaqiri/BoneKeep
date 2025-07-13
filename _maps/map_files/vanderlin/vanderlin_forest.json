@@ -1,6 +1,0 @@
-{
-    "map_name": "Osseus Forest",
-    "map_path": "map_files/osseus",
-    "map_file": "osseus_forest.dmm",
-	"traits": [{"Up": true, "Leylines": true}, {"Up": true, "Down": true, "Leylines": true}, {"Down": true}]
-}
