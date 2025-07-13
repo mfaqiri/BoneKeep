@@ -62,7 +62,7 @@
 			return
 
 	if(istype(W, /obj/item/ore/coal))
-		if(alert(usr, "Fuel \the [src] with [W]?", "VANDERLIN", "Fuel", "Smelt") == "Fuel")
+		if(alert(usr, "Fuel \the [src] with [W]?", "OSSEUS", "Fuel", "Smelt") == "Fuel")
 			return ..()
 
 	if(istype(W, /obj/item/storage/crucible))
@@ -218,7 +218,7 @@
 						for(var/i in 1 to maxore)
 							var/obj/item/R = new alloy(src, floor_mean_quality)
 							if(alloy == /obj/item/ingot/blacksteel)
-								GLOB.vanderlin_round_stats[STATS_BLACKSTEEL_SMELTED]++
+								GLOB.osseus_round_stats[STATS_BLACKSTEEL_SMELTED]++
 							ore += R
 					else
 						for(var/obj/item/I in ore)

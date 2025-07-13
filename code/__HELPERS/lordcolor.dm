@@ -83,13 +83,13 @@ GLOBAL_VAR(lordsecondary)
 		"ORANGE"="#b47011",
 		"MAJENTA"="#822b52",
 	)
-	var/choice = browser_input_list(src, "Choose a Primary Color", "VANDERLIN", lordcolors)
+	var/choice = browser_input_list(src, "Choose a Primary Color", "OSSEUS", lordcolors)
 	if(!choice)
 		choice = pick(lordcolors)
 		return
 	GLOB.lordprimary = lordcolors[choice]
 	lordcolors -= choice
-	choice = browser_input_list(src, "Choose a Secondary Color", "VANDERLIN", lordcolors)
+	choice = browser_input_list(src, "Choose a Secondary Color", "OSSEUS", lordcolors)
 	if(!choice)
 		choice = pick(lordcolors)
 		return

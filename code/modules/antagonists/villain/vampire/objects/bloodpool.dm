@@ -29,7 +29,7 @@
 	var/datum/antagonist/vampire/lord/lord = user.mind.has_antag_datum(/datum/antagonist/vampire/lord)
 	if(!lord)
 		return
-	switch(browser_input_list(user, "What to do?", "VANDERLIN", useoptions))
+	switch(browser_input_list(user, "What to do?", "OSSEUS", useoptions))
 		if("Grow Power")
 			var/datum/team/vampires/vamp_team = lord.team
 			if(lord.ascended)
@@ -63,7 +63,7 @@
 					return
 				if(do_after(user, 10 SECONDS, src))
 					lord.adjust_vitae(-500)
-					var/naming = input(user, "Select a name for the amulet.", "VANDERLIN") as text|null
+					var/naming = input(user, "Select a name for the amulet.", "OSSEUS") as text|null
 					var/obj/item/clothing/neck/portalamulet/P = new(src.loc)
 					if(naming)
 						P.name = naming

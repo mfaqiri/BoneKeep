@@ -3,7 +3,7 @@
 	f_title = "Priestess"
 	tutorial = "You are a devoted follower of Astrata. \
 	The divine is all that matters in an immoral world. \
-	The Sun Queen and her pantheon rule over all, and you will preach their wisdom to Vanderlin. \
+	The Sun Queen and her pantheon rule over all, and you will preach their wisdom to Osseus. \
 	It is up to you to shephard the flock into a Ten-fearing future."
 	flag = PRIEST
 	department_flag = CHURCHMEN
@@ -219,7 +219,7 @@
 	set category = "Priest"
 	if(stat)
 		return
-	var/inputty = input("Make an announcement", "VANDERLIN") as text|null
+	var/inputty = input("Make an announcement", "OSSEUS") as text|null
 	if(inputty)
 		if(!istype(get_area(src), /area/rogue/indoors/town/church/chapel))
 			to_chat(src, "<span class='warning'>I need to do this from the chapel.</span>")

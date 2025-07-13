@@ -16,13 +16,13 @@ $include plexora.txt
 # There are various options which are hard-locked for security reasons.
 
 ## Server name: This appears at the top of the screen in-game and in the BYOND hub. Uncomment and replace 'tgstation' with the name of your choice.
-SERVERNAME Vanderlin
+SERVERNAME Osseus
 
 ## Server SQL name: This is the name used to identify the server to the SQL DB, distinct from SERVERNAME as it must be at most 32 characters.
 # SERVERSQLNAME tgstation
 
 ## Station name: The name of the station as it is referred to in-game. If commented out, the game will generate a random name instead.
-STATIONNAME Vanderlin
+STATIONNAME Osseus
 
 ## Put on byond hub: Uncomment this to put your server on the byond hub.
 #HUB
@@ -240,13 +240,13 @@ USEBLACKLIST
 # FORUMURL N/A
 
 ## Wiki address
-WIKIURL https://wiki.monkestation.com/en/vanderlin
+WIKIURL https://github.com/The-Bone-Zone/BoneKeep/wiki
 
 ## Rules address
-RULESURL https://wiki.monkestation.com/en/vanderlin/rules
+RULESURL https://github.com/The-Bone-Zone/BoneKeep/wiki
 
 ## Github address
-GITHUBURL https://github.com/Vanderlin-Tales-Of-Wine/Vanderlin
+GITHUBURL https://github.com/The-Bone-Zone/BoneKeep
 
 ## Round specific stats address
 ## Link to round specific parsed logs; IE statbus. It is appended with the RoundID automatically by ticker/Reboot()
@@ -265,7 +265,7 @@ GITHUBURL https://github.com/Vanderlin-Tales-Of-Wine/Vanderlin
 # GITHUBREPOID 3234987
 
 ## Ban appeals URL - usually for a forum or wherever people should go to contact your admins.
- BANAPPEALS https://discord.monkestation.com
+ BANAPPEALS https://discord.gg/nBXr96K
 
 ## System command that invokes youtube-dl, used by Play Internet Sound.
 ## You can install youtube-dl with

@@ -9657,7 +9657,7 @@
 /area/rogue/under/town/sewer)
 "jwI" = (
 /obj/item/paper/scroll,
-/obj/structure/table/map/vanderlin{
+/obj/structure/table/map/osseus{
 	dir = 9
 	},
 /turf/open/floor/carpet/lord/center,
@@ -10643,7 +10643,7 @@
 /area/rogue/indoors/town)
 "kot" = (
 /obj/item/candle/skull,
-/obj/structure/table/map/vanderlin{
+/obj/structure/table/map/osseus{
 	dir = 5
 	},
 /turf/open/floor/carpet/lord/right,
@@ -14376,7 +14376,7 @@
 /turf/open/floor/tile,
 /area/rogue/under/town/basement)
 "ogd" = (
-/obj/structure/table/map/vanderlin{
+/obj/structure/table/map/osseus{
 	dir = 1
 	},
 /turf/open/floor/carpet/lord/center,
@@ -14448,7 +14448,7 @@
 /area/rogue/indoors/town)
 "okq" = (
 /obj/item/candle/yellow,
-/obj/structure/table/map/vanderlin,
+/obj/structure/table/map/osseus,
 /turf/open/floor/carpet/lord/center,
 /area/rogue/indoors/town/manor)
 "okD" = (
@@ -15036,7 +15036,7 @@
 "oRT" = (
 /mob/living/simple_animal/pet/cat/inn{
 	name = "His Majesty";
-	desc = "This old, wrinkled cat demands the utmost respect from his servants. Not even the king of Vanderlin is exempt from his worship."
+	desc = "This old, wrinkled cat demands the utmost respect from his servants. Not even the king of Osseus is exempt from his worship."
 	},
 /turf/open/floor/wood,
 /area/rogue/indoors/town/tavern)
@@ -18158,7 +18158,7 @@
 /turf/open/floor/ruinedwood/turned/darker,
 /area/rogue/indoors/soilsons)
 "rVo" = (
-/obj/structure/table/map/vanderlin{
+/obj/structure/table/map/osseus{
 	dir = 10
 	},
 /turf/open/floor/carpet/lord/center,
@@ -20698,7 +20698,7 @@
 /area/rogue/indoors/town/clinic_large)
 "uhm" = (
 /obj/structure/fluff/buysign{
-	name = "Carriage to Vanderlin"
+	name = "Carriage to Osseus"
 	},
 /turf/open/floor/dirt/road,
 /area/rogue/outdoors/rtfield/safe)
@@ -23702,7 +23702,7 @@
 /area/rogue/under/town/sewer)
 "wXD" = (
 /obj/item/natural/feather,
-/obj/structure/table/map/vanderlin{
+/obj/structure/table/map/osseus{
 	dir = 6
 	},
 /turf/open/floor/carpet/lord/right,

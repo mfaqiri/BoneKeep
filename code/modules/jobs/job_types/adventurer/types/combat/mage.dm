@@ -1,6 +1,6 @@
 /datum/advclass/combat/mage
 	name = "Mage"
-	tutorial = "Either a apprentice studing under a wizard or an ambitious autodidact, you have finally set out to Vanderlin to gain more knowledge. You seek adventure, using your arcyne knowledge to aid others in need."
+	tutorial = "Either a apprentice studing under a wizard or an ambitious autodidact, you have finally set out to Osseus to gain more knowledge. You seek adventure, using your arcyne knowledge to aid others in need."
 	allowed_sexes = list(MALE)
 
 	outfit = /datum/outfit/job/adventurer/mage

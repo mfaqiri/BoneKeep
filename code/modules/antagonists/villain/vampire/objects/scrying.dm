@@ -36,7 +36,7 @@
 		if(A.area_flags & (HIDDEN_AREA|NO_TELEPORT))
 			continue
 		filtered += A
-	var/area/thearea  = input("Area to jump to", "VANDERLIN") as null|anything in filtered
+	var/area/thearea  = input("Area to jump to", "OSSEUS") as null|anything in filtered
 
 	if(!thearea)
 		return

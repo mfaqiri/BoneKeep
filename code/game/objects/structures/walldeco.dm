@@ -169,7 +169,7 @@
 	icon_state = "chains[rand(1,8)]"
 
 /obj/structure/fluff/walldeco/customflag
-	name = "vanderlin flag"
+	name = "osseus flag"
 	desc = ""
 	icon_state = "wallflag"
 	uses_lord_coloring = LORD_PRIMARY | LORD_SECONDARY

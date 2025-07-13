@@ -1368,15 +1368,15 @@
 /area/rogue/indoors/mountains)
 "hO" = (
 /obj/structure/fluff/traveltile{
-	aportalgoesto = "vanderlin-bog_town-town";
-	aportalid = "vanderlin-bog_town-bog"
+	aportalgoesto = "osseus-bog_town-town";
+	aportalid = "osseus-bog_town-bog"
 	},
 /turf/open/floor/cobble,
 /area/rogue/indoors/lich)
 "hQ" = (
 /obj/structure/fluff/traveltile{
-	aportalid = "vanderlin-bog_town-bog";
-	aportalgoesto = "vanderlin-bog_town-town"
+	aportalid = "osseus-bog_town-bog";
+	aportalgoesto = "osseus-bog_town-town"
 	},
 /turf/open/floor/cobblerock,
 /area/rogue/indoors/lich)
@@ -2512,8 +2512,8 @@
 /area/rogue/indoors/mountains)
 "oR" = (
 /obj/structure/fluff/traveltile{
-	aportalid = "vanderlin-bog_town-bog";
-	aportalgoesto = "vanderlin-bog_town-town"
+	aportalid = "osseus-bog_town-bog";
+	aportalgoesto = "osseus-bog_town-town"
 	},
 /turf/open/floor/cobble,
 /area/rogue/indoors/lich)

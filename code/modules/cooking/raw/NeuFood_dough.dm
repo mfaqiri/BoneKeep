@@ -511,7 +511,7 @@
 
 /obj/item/reagent_containers/food/snacks/fritter
 	name = "apple fritter"
-	desc = "Having deep origins in the culture of Vanderlin, the humble fritter is perhaps the most patriotic pastry out there, long may it reign!"
+	desc = "Having deep origins in the culture of Osseus, the humble fritter is perhaps the most patriotic pastry out there, long may it reign!"
 	icon_state = "applefritter"
 	dropshrink = 0.8
 	list_reagents = list(/datum/reagent/consumable/nutriment = SNACK_CHUNKY)

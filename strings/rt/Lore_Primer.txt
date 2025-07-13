@@ -1,10 +1,10 @@
-<p><strong><em><span style="font-size:115%"> Welcome to Vanderlin! </span></em></strong></p>
-<p> This lore primer serves as an introduction to Vanderlin's lore and world. <br>
+<p><strong><em><span style="font-size:115%"> Welcome to Osseus! </span></em></strong></p>
+<p> This lore primer serves as an introduction to Osseus's lore and world. <br>
 While it's not required reading, leadership roles may find this information useful to roleplay their positions. This, or anyone else interested in playing a character with more knowledge about the setting. Not all information is available here, and some secrets still lie within item descriptions, inscriptions, or booklets- it's a primer, not a compendium. </p>
 <hr>
 <strong><span style="font-size:105%"> Some quick vocabulary/concepts important to the setting: </span></strong>
-<p><strong> Psydonia </strong> - The world Vanderlin takes place in, named after its creation god, Psydon. It is currently the year 2515 after His death. </p>
-<p><strong> Faience </strong> - The continent Vanderlin takes place in. Shaped by His hand. </p>
+<p><strong> Psydonia </strong> - The world Osseus takes place in, named after its creation god, Psydon. It is currently the year 2515 after His death. </p>
+<p><strong> Faience </strong> - The continent Osseus takes place in. Shaped by His hand. </p>
 <p><strong> Lux </strong> - The core link of divinity a person holds; the soul. A sliver of Psydon present within each species touched at one point by divine hand. It is said that it carries the power of a single, focused miracle of life- yet its removal dooms a soul never to pass into the underworld. </p>
 <hr>
 
@@ -25,15 +25,15 @@ While it's not required reading, leadership roles may find this information usef
 	<br>
 
 
-	<p><strong>  Peninsula of Vanderlin </strong><em> - "The new trade capital of the world."  </em></p>
+	<p><strong>  Peninsula of Osseus </strong><em> - "The new trade capital of the world."  </em></p>
 
 	<details>
 		<summary><em> Points of Interest </em></summary>
 
-		<p><strong> - City of Vanderlin </strong><br> A canyon settlement on a nearby peninsula to the East of the Isle of Enigma. Reaping the boons of both, Vanderlin is a city of trade and prosperity. Built over the first-discovered opening to the Tomb of Matthios, it attracts adventurers from all over Psydonia to delve within and seek fortune.  </p>
-		<p><strong> - County of Daftmarsh </strong><br> A thrice-sunken castle, now a town-on-stilts built from its ruins. Daftmarsh guards the river delta directly North of Vanderlin. It often serves as a safe cove for pirates, providing Vanderlin merchant ships safe passage in exchange for the Crown's averted eyes. </p>
+		<p><strong> - City of Osseus </strong><br> A canyon settlement on a nearby peninsula to the East of the Isle of Enigma. Reaping the boons of both, Osseus is a city of trade and prosperity. Built over the first-discovered opening to the Tomb of Matthios, it attracts adventurers from all over Psydonia to delve within and seek fortune.  </p>
+		<p><strong> - County of Daftmarsh </strong><br> A thrice-sunken castle, now a town-on-stilts built from its ruins. Daftmarsh guards the river delta directly North of Osseus. It often serves as a safe cove for pirates, providing Osseus merchant ships safe passage in exchange for the Crown's averted eyes. </p>
 		<p><strong> - Mire of the Terrorbog </strong><br> A fertile and marshy area of the peninsula, overgrown and suffering an invasion of beespiders.  </p>
-		<p><strong> - Shire of Murderwood </strong><br> Ancestral Forest bearing many glades, overrun by villains, knaves, and other lawlessness. A testament to Dendor's madness, its constant-shifting thicket stretches across Western Vanderlin. </p>
+		<p><strong> - Shire of Murderwood </strong><br> Ancestral Forest bearing many glades, overrun by villains, knaves, and other lawlessness. A testament to Dendor's madness, its constant-shifting thicket stretches across Western Osseus. </p>
 		<p><strong> - Malum's Anvil </strong><br> A jagged mountain filled with ores, treasures, and lava. Likewise a cacophony of horrid goblins, beasts, and other misfortunes. The crater of Astrata's fallen shard still scars its peak. </p>
 	</details>
 	<br>
@@ -105,7 +105,7 @@ While it's not required reading, leadership roles may find this information usef
 		<br><br>
 		Kingsfield spans along the Northwest of Faience, housing the cultural center of the world in its massive cities and impressive population. Unlike many of the other humen-majority populations, its inhabitants and history are defined by kindness rather than conquest. A certain demographic of Kingsfieldians are identifiable by their odd pronunciation of certain Imperial words and inclusion of 'eh?' after a comment or question. Species from all over the world would visit and establish themselves within these cities, including a non-insignificant population of dark elves before Zizo's conquest. They are, perhaps, the most tolerant of half-drow as a result- and as such are subject to mockery by the rest of Faience.
 		<br><br>
-		Kingsfield's prominence was built from tactical allyship and infrastructure development through industrialization. Through close cooperation with Heartfelt, Kingsfield railways span across the Western side of the entire continent, stretching from the tip of Kingsfield's tundras to the bottom of Vanderlin's peninsula. Kingsfield's population, notable in arts and culture worldwide, is of course largely Eoran and Xylixian in patronage; however, scholars of Noc account for a close third.
+		Kingsfield's prominence was built from tactical allyship and infrastructure development through industrialization. Through close cooperation with Heartfelt, Kingsfield railways span across the Western side of the entire continent, stretching from the tip of Kingsfield's tundras to the bottom of Osseus's peninsula. Kingsfield's population, notable in arts and culture worldwide, is of course largely Eoran and Xylixian in patronage; however, scholars of Noc account for a close third.
 		<br><br>
 	</details>
 
@@ -626,7 +626,7 @@ While it's not required reading, leadership roles may find this information usef
 	<details>
 		<summary><strong> The Tomb's Unearthing - 2003 </strong></summary>
 		<br>
-		A Vanderlinian dwarf dug deeply below the growing settlement, striking solid bricks instead of stone or metal. He unearthed the tomb of the late Matthios, rumoured to have been buried for decades... yet no corpse was found inside. The tomb's contents shifted brimming with his power and riches, but of equal danger. Adventurers talent from across the lands further boost Vanderlin's influence and power. Soon, other entrances would open up across the continent nearby major settlements.
+		A Osseusian dwarf dug deeply below the growing settlement, striking solid bricks instead of stone or metal. He unearthed the tomb of the late Matthios, rumoured to have been buried for decades... yet no corpse was found inside. The tomb's contents shifted brimming with his power and riches, but of equal danger. Adventurers talent from across the lands further boost Osseus's influence and power. Soon, other entrances would open up across the continent nearby major settlements.
 		<br><br>
 	</details>
 
@@ -681,7 +681,7 @@ While it's not required reading, leadership roles may find this information usef
 	<details>
 		<summary><strong> Astrata's Comet - 2402 </strong></summary>
 		<br>
-		A strange comet struck the peak of Malum's Anvil. In its center, a rusted capsule remained, containing a divine, crystalline shard of Astrata's light. The first artificer to touch the shard could not handle the pure divinity, falling to ash. It was successfully contained within Vanderlin, now serving to light the way of travelers.
+		A strange comet struck the peak of Malum's Anvil. In its center, a rusted capsule remained, containing a divine, crystalline shard of Astrata's light. The first artificer to touch the shard could not handle the pure divinity, falling to ash. It was successfully contained within Osseus, now serving to light the way of travelers.
 		<br><br>
 	</details>
 

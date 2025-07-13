@@ -1,0 +1,6 @@
+{
+    "map_name": "Osseus Bog",
+    "map_path": "map_files/osseus",
+    "map_file": "osseus_bog.dmm",
+	"traits": [{"Up": true, "Leylines": true}, {"Down": true, "Leylines": true}]
+}

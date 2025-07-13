@@ -15359,8 +15359,8 @@
 /area/rogue/indoors/town/manorgate)
 "ouK" = (
 /obj/structure/fluff/traveltile{
-	aportalgoesto = "vanderlin-bog_town-bog";
-	aportalid = "vanderlin-bog_town-town"
+	aportalgoesto = "osseus-bog_town-bog";
+	aportalid = "osseus-bog_town-town"
 	},
 /turf/open/floor/dirt/road,
 /area/rogue/outdoors/rtfield)

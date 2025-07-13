@@ -29,7 +29,7 @@ GLOBAL_LIST_INIT(animal_migration_points, list())
 /datum/round_event/animal_migration
 	var/list/animals = list()
 	var/static/list/valid_travel_points = \
-	list("vanderlin-forest_town-town", "vanderlin-mountain_town-town", "vanderlin-bog_town-town", \
+	list("osseus-forest_town-town", "osseus-mountain_town-town", "osseus-bog_town-town", \
 	"Rosewood_Howling", "rosewood-town-forest", \
 	"daftmarsh-town-to-outlands", "daftmarsh-forest-to-outlands", "daftmarsh-basin-to-outlands", "daftmarsh-cave-to-outlands")
 

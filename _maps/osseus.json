@@ -1,7 +1,7 @@
 {
-	"map_name": "Vanderlin",
-	"map_path": "map_files/vanderlin",
-	"map_file": "vanderlin.dmm",
+	"map_name": "Osseus",
+	"map_path": "map_files/osseus",
+	"map_file": "osseus.dmm",
 	"immigrant_origin": "Kingsfield",
 	"monarch_title": "King",
 	"monarch_title_f": "Queen",
@@ -13,9 +13,9 @@
 		{"Down": true, "Turf Weather Effects": true}
 	],
 	"other_z": [
-		"_maps/map_files/vanderlin/vanderlin_forest.json",
-		"_maps/map_files/vanderlin/vanderlin_mountain.json",
-		"_maps/map_files/vanderlin/vanderlin_bog.json"
+		"_maps/map_files/osseus/osseus_forest.json",
+		"_maps/map_files/osseus/osseus_mountain.json",
+		"_maps/map_files/osseus/osseus_bog.json"
 	],
 	"minetype": null,
 	"space_empty_levels": 0,

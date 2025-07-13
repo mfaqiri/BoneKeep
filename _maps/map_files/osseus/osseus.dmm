@@ -2424,7 +2424,7 @@
 	icon_state = "borderfall"
 	},
 /obj/structure/fluff/buysign{
-	name = "Vanderlin Train Station";
+	name = "Osseus Train Station";
 	pixel_x = 1;
 	pixel_y = 3
 	},
@@ -3771,7 +3771,7 @@
 "clB" = (
 /obj/item/candle/skull,
 /obj/machinery/light/fueled/wallfire/candle/r,
-/obj/structure/table/map/vanderlin{
+/obj/structure/table/map/osseus{
 	dir = 5
 	},
 /turf/open/floor/carpet/lord/center,
@@ -4947,7 +4947,7 @@
 /area/rogue/indoors/town)
 "ddf" = (
 /obj/structure/fluff/buysign{
-	name = "Vanderlin Train Station";
+	name = "Osseus Train Station";
 	pixel_y = 5
 	},
 /turf/open/floor/cobblerock,
@@ -5420,8 +5420,8 @@
 /area/rogue/outdoors/town)
 "dsx" = (
 /obj/structure/fluff/traveltile{
-	aportalgoesto = "vanderlin-bog_town-bog";
-	aportalid = "vanderlin-bog_town-town"
+	aportalgoesto = "osseus-bog_town-bog";
+	aportalid = "osseus-bog_town-town"
 	},
 /turf/open/floor/dirt/road,
 /area/rogue/outdoors/rtfield)
@@ -5550,7 +5550,7 @@
 	icon_state = "borderfall"
 	},
 /obj/structure/fluff/buysign{
-	name = "Vanderlin Train Station";
+	name = "Osseus Train Station";
 	pixel_y = 5
 	},
 /turf/open/floor/herringbone,
@@ -5767,7 +5767,7 @@
 /area/rogue/indoors/town/steward)
 "dEp" = (
 /obj/structure/throne{
-	name = "Throne of Vanderlin"
+	name = "Throne of Osseus"
 	},
 /obj/structure/fake_machine/titan{
 	pixel_y = 32
@@ -7678,8 +7678,8 @@
 /area/rogue/indoors/dungeon)
 "eMz" = (
 /obj/structure/fluff/traveltile{
-	aportalgoesto = "vanderlin-mountain_town-mountain";
-	aportalid = "vanderlin-mountain_town-town"
+	aportalgoesto = "osseus-mountain_town-mountain";
+	aportalid = "osseus-mountain_town-town"
 	},
 /turf/open/floor/dirt/road,
 /area/rogue/under/cavelava)
@@ -10507,7 +10507,7 @@
 /area/rogue/indoors/town/manor)
 "gGo" = (
 /obj/structure/fluff/signage{
-	name = "Vanderlin Train Station"
+	name = "Osseus Train Station"
 	},
 /turf/open/floor/dirt,
 /area/rogue/outdoors/rtfield)
@@ -11710,7 +11710,7 @@
 /area/rogue/outdoors/town)
 "hxt" = (
 /obj/structure/fluff/buysign{
-	name = "Vanderlin Train Station"
+	name = "Osseus Train Station"
 	},
 /turf/open/floor/blocks,
 /area/rogue/outdoors/town)
@@ -15957,7 +15957,7 @@
 /area/rogue/indoors/town/church)
 "keV" = (
 /obj/item/natural/feather,
-/obj/structure/table/map/vanderlin{
+/obj/structure/table/map/osseus{
 	dir = 6
 	},
 /turf/open/floor/carpet/lord/center,
@@ -16065,7 +16065,7 @@
 /area/rogue/indoors/town/orphanage)
 "khR" = (
 /mob/living/simple_animal/pet/cat/inn{
-	desc = "This old, wrinkled cat demands the utmost respect from his servants. Not even the king of Vanderlin is exempt from his worship.";
+	desc = "This old, wrinkled cat demands the utmost respect from his servants. Not even the king of Osseus is exempt from his worship.";
 	name = "His Majesty"
 	},
 /turf/open/floor/wood,
@@ -20205,8 +20205,8 @@
 /area/rogue/under/town/basement)
 "mVz" = (
 /obj/structure/fluff/traveltile{
-	aportalgoesto = "vanderlin-mountain_town-mountain";
-	aportalid = "vanderlin-mountain_town-town"
+	aportalgoesto = "osseus-mountain_town-mountain";
+	aportalid = "osseus-mountain_town-town"
 	},
 /turf/open/floor/naturalstone,
 /area/rogue/under/cavelava)
@@ -21635,7 +21635,7 @@
 /area/rogue/outdoors/rtfield/safe)
 "nPZ" = (
 /obj/item/paper/scroll,
-/obj/structure/table/map/vanderlin{
+/obj/structure/table/map/osseus{
 	dir = 9
 	},
 /turf/open/floor/carpet/lord/center,
@@ -23256,7 +23256,7 @@
 	dir = 4
 	},
 /obj/structure/fluff/buysign{
-	name = "Vanderlin Train Station";
+	name = "Osseus Train Station";
 	pixel_y = 5
 	},
 /turf/open/floor/cobblerock,
@@ -23945,7 +23945,7 @@
 /turf/open/floor/tile/bfloorz,
 /area/rogue/indoors/town/bath)
 "pte" = (
-/obj/structure/table/map/vanderlin{
+/obj/structure/table/map/osseus{
 	dir = 10
 	},
 /turf/open/floor/carpet/lord/center,
@@ -25284,7 +25284,7 @@
 /area/rogue/indoors/town)
 "qpP" = (
 /obj/item/candle/yellow,
-/obj/structure/table/map/vanderlin,
+/obj/structure/table/map/osseus,
 /turf/open/floor/carpet/lord/center,
 /area/rogue/indoors/town/manor)
 "qpW" = (
@@ -30471,7 +30471,7 @@
 /area/rogue/outdoors/eora)
 "tHF" = (
 /obj/structure/fluff/signage{
-	name = "Vanderlin Train Station"
+	name = "Osseus Train Station"
 	},
 /turf/open/floor/blocks,
 /area/rogue/outdoors/town)
@@ -34469,7 +34469,7 @@
 /turf/open/floor/herringbone,
 /area/rogue/indoors/town/smithy)
 "wom" = (
-/obj/structure/table/map/vanderlin{
+/obj/structure/table/map/osseus{
 	dir = 1
 	},
 /turf/open/floor/carpet/lord/center,
@@ -37066,8 +37066,8 @@
 /area/rogue/indoors/town/clinic_large)
 "ybq" = (
 /obj/structure/fluff/traveltile{
-	aportalgoesto = "vanderlin-forest_town-forest";
-	aportalid = "vanderlin-forest_town-town"
+	aportalgoesto = "osseus-forest_town-forest";
+	aportalid = "osseus-forest_town-town"
 	},
 /turf/open/floor/dirt/road,
 /area/rogue/outdoors/rtfield)

@@ -40,13 +40,13 @@
 	if(!coin_loaded)
 		to_chat(user, "<span class='warning'>The machine doesn't respond. It needs a coin.</span>")
 		return
-	var/send2place = input(user, "Where to? (Person or #number)", "VANDERLIN", null)
+	var/send2place = input(user, "Where to? (Person or #number)", "OSSEUS", null)
 	if(!send2place)
 		return
-	var/sentfrom = input(user, "Who is this letter from?", "VANDERLIN", null)
+	var/sentfrom = input(user, "Who is this letter from?", "OSSEUS", null)
 	if(!sentfrom)
 		sentfrom = "Anonymous"
-	var/t = stripped_multiline_input("Write Your Letter", "VANDERLIN", no_trim=TRUE)
+	var/t = stripped_multiline_input("Write Your Letter", "OSSEUS", no_trim=TRUE)
 	if(t)
 		if(length(t) > 2000)
 			to_chat(user, "<span class='warning'>Too long. Try again.</span>")
@@ -167,8 +167,8 @@
 		if(P.w_class >= WEIGHT_CLASS_BULKY)
 			return
 		if(alert(user, "Send Mail?",,"YES","NO") == "YES")
-			var/send2place = input(user, "Where to? (Person or #number)", "VANDERLIN", null)
-			var/sentfrom = input(user, "Who is this from?", "VANDERLIN", null)
+			var/send2place = input(user, "Where to? (Person or #number)", "OSSEUS", null)
+			var/sentfrom = input(user, "Who is this from?", "OSSEUS", null)
 			if(!sentfrom)
 				sentfrom = "Anonymous"
 			if(findtext(send2place, "#"))

@@ -3,7 +3,7 @@
 	tutorial = "A recent arrival from Grenzelhoft, \
 	you are an emmissary of political and theological import. \
 	You have been sent by your leader, the Orthodox Bishop, \
-	to assist the local Priest in combatting the increasing number of heretics and monsters infiltrating Vanderlin."
+	to assist the local Priest in combatting the increasing number of heretics and monsters infiltrating Osseus."
 	flag = PURITAN
 	department_flag = CHURCHMEN
 	job_flags = (JOB_ANNOUNCE_ARRIVAL | JOB_SHOW_IN_CREDITS | JOB_EQUIP_RANK | JOB_NEW_PLAYER_JOINABLE)
@@ -312,7 +312,7 @@
 						held_confession.bad_type = "A SCION OF KAINE"
 						held_confession.antag = antag_type
 					if("Vampire Lord")
-						held_confession.bad_type = "THE BLOOD-LORD OF VANDERLIN"
+						held_confession.bad_type = "THE BLOOD-LORD OF OSSEUS"
 						held_confession.antag = antag_type
 					if("Vampire Spawn")
 						held_confession.bad_type = "AN UNDERLING OF THE BLOOD-LORD"

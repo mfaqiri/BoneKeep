@@ -15,7 +15,7 @@ body:
     multiple: true
     description: Where did the bug happen?
     options:
-      - Vanderlin
+      - Osseus
       - Rosewood
 
 - type: textarea

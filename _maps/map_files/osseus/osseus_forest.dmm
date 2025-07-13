@@ -224,8 +224,8 @@
 /area/rogue/indoors)
 "dW" = (
 /obj/structure/fluff/traveltile{
-	aportalgoesto = "vanderlin-forest_town-town";
-	aportalid = "vanderlin-forest_town-forest"
+	aportalgoesto = "osseus-forest_town-town";
+	aportalid = "osseus-forest_town-forest"
 	},
 /turf/open/floor/cobblerock,
 /area/rogue/outdoors/woods)
@@ -1197,8 +1197,8 @@
 /area/rogue/indoors/cave)
 "uD" = (
 /obj/structure/fluff/traveltile{
-	aportalgoesto = "vanderlin-forest_bog-bog2";
-	aportalid = "vanderlin-forest_bog-forest2"
+	aportalgoesto = "osseus-forest_bog-bog2";
+	aportalid = "osseus-forest_bog-forest2"
 	},
 /turf/open/floor/grass,
 /area/rogue/outdoors/woods)
@@ -1498,7 +1498,7 @@
 /area/rogue/outdoors/woods)
 "zg" = (
 /obj/structure/fluff/signage{
-	name = "Vanderlin - East"
+	name = "Osseus - East"
 	},
 /turf/open/floor/dirt,
 /area/rogue/outdoors/woods)
@@ -1692,8 +1692,8 @@
 /area/rogue/outdoors/woods_safe)
 "Dk" = (
 /obj/structure/fluff/traveltile{
-	aportalgoesto = "vanderlin-forest_bog-bog";
-	aportalid = "vanderlin-forest_bog-forest"
+	aportalgoesto = "osseus-forest_bog-bog";
+	aportalid = "osseus-forest_bog-forest"
 	},
 /turf/open/floor/dirt/road,
 /area/rogue/outdoors/woods)
@@ -2536,7 +2536,7 @@
 /area/rogue/outdoors/woods)
 "TG" = (
 /obj/structure/fluff/signage{
-	name = "Vanderlin - East"
+	name = "Osseus - East"
 	},
 /turf/open/floor/grass,
 /area/rogue/outdoors/woods)
@@ -2619,8 +2619,8 @@
 /area/rogue/indoors)
 "Vc" = (
 /obj/structure/fluff/traveltile{
-	aportalgoesto = "vanderlin-forest_bog-bog2";
-	aportalid = "vanderlin-forest_bog-forest2"
+	aportalgoesto = "osseus-forest_bog-bog2";
+	aportalid = "osseus-forest_bog-forest2"
 	},
 /turf/open/floor/dirt,
 /area/rogue/outdoors/woods)

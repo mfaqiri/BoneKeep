@@ -1,4 +1,4 @@
-# VANDERLIN
+# OSSEUS
 
 [![BYOND Build](https://github.com/The-Bone-Zone/BoneKeep/actions/workflows/ci_suite.yml/badge.svg)](https://github.com/The-Bone-Zone/BoneKeep/actions/workflows/ci_suite.yml)
 
@@ -64,7 +64,8 @@ Also with some tweaks done to read environment variables, like database config a
 3) Enter this directory (`cd BoneKeep/tools/DockerTestServer`)
 4) Make a copy of the `example.env` file and call it `.env` (`cp example.env .env`)
 5) Edit the values in `.env` (the content and commented out sections, seriously, read it)
-6) When all and dandy, start the server by doing `docker-compose up`
+6) When all and dandy, start the server by doing `docker-compose up -d`
+7) To rebuild `docker compose up -d --build`
 
 After this, you should be able to connect over to your server by opening BYOND and joining your game with an URL that looks like this `byond://localhost:1337` or if you are hosting this on another server `byond://<server-ip>:1337`
 
