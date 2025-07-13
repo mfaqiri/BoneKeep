@@ -1,0 +1,15 @@
+PUT YOUR NAME IN HERE IF YOU'RE WORKING ON SOMETHING OR EXPECT YOUR SHIT TO GET MERGE CONFLICTED.
+
+osseus.dmm [critical]
+	Cannibal Hunter
+	Aberra (aberrantquerist)
+
+osseus_forest.dmm [important]
+	Marabout (sanslesquellete)
+
+osseus_bog.dmm
+	The Duke of Ook
+
+osseus_mountain.dmm
+	Mow (KM-Catman)
+	Marabout (sanslequellete)
