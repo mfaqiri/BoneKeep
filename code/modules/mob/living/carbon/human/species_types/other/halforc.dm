@@ -27,7 +27,7 @@
 	inherent_traits = list(TRAIT_NOMOBSWAP, TRAIT_NOSTINK)
 
 	// horcs are STINKY
-	components_to_add = list(/datum/component/rot/stinky_person)
+	//components_to_add = list(/datum/component/rot/stinky_person)
 
 	use_skintones = 1
 
