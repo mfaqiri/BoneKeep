@@ -27,9 +27,9 @@
 	. = ..()
 	if(!.)
 		return FALSE
-	return ishuman(cast_on)
+	return TRUE
 
-/datum/action/cooldown/spell/revive/before_cast(mob/living/carbon/human/cast_on)
+/datum/action/cooldown/spell/revive/before_cast()
 	. = ..()
 	if(. & SPELL_CANCEL_CAST)
 		return
@@ -64,7 +64,7 @@
 		reset_spell_cooldown()
 		return . | SPELL_CANCEL_CAST
 
-/datum/action/cooldown/spell/revive/cast(mob/living/carbon/human/cast_on)
+/datum/action/cooldown/spell/revive/cast()
 	. = ..()
 	if(QDELETED(target_cross))
 		return
