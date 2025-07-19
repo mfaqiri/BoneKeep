@@ -16,7 +16,7 @@
 	Practice of this was justified through religious doctrines, \
 	venerating strength and dominance as divine virtues. \
 	\n\n\
-	As they further attached themselves to Zaladin, however, \
+	As they further attached themselves to Zyubuntu, however, \
 	their people would integrate more sophisticated forms of servitude, \
 	such as indentured contracts and debt bondage. \
 	\n\n\

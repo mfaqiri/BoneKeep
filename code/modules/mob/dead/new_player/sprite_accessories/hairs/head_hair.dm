@@ -372,7 +372,7 @@
 	specuse = list("elf")
 
 /datum/sprite_accessory/hair/head/zyubuntu
-	name = "Zaladin"
+	name = "Zyubuntu"
 	icon_state = "zyubuntu" // orginal name gelled
 	gender = MALE
 	specuse = list("human", "dwarf", "elf", "aasimar", "tiefling", "halforc")
