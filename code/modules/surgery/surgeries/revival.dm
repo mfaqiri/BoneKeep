@@ -5,21 +5,10 @@
 		/datum/surgery_step/clamp,
 		/datum/surgery_step/retract,
 		/datum/surgery_step/saw,
-		/datum/surgery_step/infuse_lux,
 		/datum/surgery_step/cauterize
 	)
 	target_mobtypes = list(/mob/living/carbon/human, /mob/living/carbon/monkey)
 	possible_locs = list(BODY_ZONE_CHEST)
-
-/datum/surgery_step/infuse_lux
-	name = "Infuse Lux"
-	implements = list(
-		/obj/item/reagent_containers/lux = 80,
-	)
-	target_mobtypes = list(/mob/living/carbon/human, /mob/living/carbon/monkey)
-	time = 10 SECONDS
-	surgery_flags = SURGERY_BLOODY | SURGERY_INCISED | SURGERY_CLAMPED | SURGERY_RETRACTED | SURGERY_BROKEN
-	skill_min = SKILL_LEVEL_EXPERT
 
 /datum/surgery_step/infuse_lux/validate_target(mob/user, mob/living/target, target_zone, datum/intent/intent)
 	. = ..()

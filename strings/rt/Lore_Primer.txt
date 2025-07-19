@@ -5,7 +5,6 @@ While it's not required reading, leadership roles may find this information usef
 <strong><span style="font-size:105%"> Some quick vocabulary/concepts important to the setting: </span></strong>
 <p><strong> Psydonia </strong> - The world Osseus takes place in, named after its creation god, Psydon. It is currently the year 2515 after His death. </p>
 <p><strong> Faience </strong> - The continent Osseus takes place in. Shaped by His hand. </p>
-<p><strong> Lux </strong> - The core link of divinity a person holds; the soul. A sliver of Psydon present within each species touched at one point by divine hand. It is said that it carries the power of a single, focused miracle of life- yet its removal dooms a soul never to pass into the underworld. </p>
 <hr>
 
 <details>
@@ -635,8 +634,6 @@ While it's not required reading, leadership roles may find this information usef
 		<br>
 		"The Demon Queen," "The Prince of Wine," "Consort of Misfortune." Regardless of the disparaging title of choice, Baotha's consortship and eventual regency was subject of disparagement and snide remarks across all of nobility. Her tastes and demands for increasingly exotic substances further doomed her kingdom day after day, until the once thriving azure coasts held nothing but memories of struggle and suffering.
 		<br><br>
-		Nobility and peasantry cheered alike when word spread of her death. Overdose of Lux, they said. A blight across the lands lifted... or so was thought. Her dark whispers reached more and more ears, of drunkards, the miserable, offering a false salvation of escape. To make matters worse, Her Grace, The First Tiefling's ascension marked the emergence of even more of her people across all of Psydonia.
-		<br><br>
 	</details>
 
 	<details>
@@ -665,7 +662,7 @@ While it's not required reading, leadership roles may find this information usef
 	<details>
 		<summary><strong> Ascension of Zizo - 2102 </strong></summary>
 		<br>
-		<em>"I will never forget the night of silver wires. I was sitting around the kampfire alongside the snow elven family who had taken me in. I had grown to konsider them friends, family even, as I studied their ways and kulture. Imagine my horror, as strands of silver light descended from the sky to their hearts, arcing from some unknown origin beyond the horizon. My brief fascination turned to panic as their Lux was violently ripped from each of their hearts, leaving only the gore, bones, and lifeless rred eyes of my former kompanions staining the snow. I kould not save them. No one kould save any of them. Kenturies later, the memories haunt me no less."</em>- Aspen Uki, wood-elven scholar.
+		<em>"I will never forget the night of silver wires. I was sitting around the kampfire alongside the snow elven family who had taken me in. I had grown to konsider them friends, family even, as I studied their ways and kulture. Imagine my horror, as strands of silver light descended from the sky to their hearts, arcing from some unknown origin beyond the horizon. My brief fascination turned to panic as their hearts were violently ripped from each of their hearts, leaving only the gore, bones, and lifeless rred eyes of my former kompanions staining the snow. I kould not save them. No one kould save any of them. Kenturies later, the memories haunt me no less."</em>- Aspen Uki, wood-elven scholar.
 		<br><br>
 		The snow-elven lich Zizo, after having grown in power and isolation for centuries, finally made her move. She forcefully stole the souls of her entire people, sparing only her descendants. Using the sheer power of captured divinity, she took her position as the fourth ascended goddess. As she grew higher and tested the limits of her newfound power, the very rules of death twisted. Corpses everywhere would stand yet again, weighing hunger against the will of their new matriarch.
 		<br><br>
