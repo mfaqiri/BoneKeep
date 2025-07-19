@@ -558,7 +558,7 @@
 	rotprocess = SHELFLIFE_LONG
 
 /obj/item/reagent_containers/food/snacks/zybcake
-	name = "zaladin cake base"
+	name = "zyubuntu cake base"
 	desc = "With this sweet thing, you shall make them sing. Lacking spider-honey glazing."
 	icon_state = "cake_filled"
 	dropshrink = 0.8
@@ -568,7 +568,7 @@
 
 // -------------- SPIDER-HONEY CAKE (Zaladin) -----------------
 /obj/item/reagent_containers/food/snacks/zybcake_ready
-	name = "unbaked zaladin cake"
+	name = "unbaked zyubuntu cake"
 	icon_state = "honeycakeuncook"
 	dropshrink = 0.8
 	slices_num = 0
