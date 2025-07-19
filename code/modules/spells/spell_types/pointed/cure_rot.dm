@@ -37,11 +37,6 @@
 		reset_spell_cooldown()
 		return . | SPELL_CANCEL_CAST
 
-	if(cast_on.get_lux_status() != LUX_HAS_LUX)
-		to_chat(owner, span_warning("This filth cannot be revived by holy light!"))
-		reset_spell_cooldown()
-		return . | SPELL_CANCEL_CAST
-
 	for(var/obj/item/bodypart/bodypart as anything in cast_on.bodyparts)
 		if(bodypart.skeletonized)
 			to_chat(owner, span_warning("They are too far gone."))
