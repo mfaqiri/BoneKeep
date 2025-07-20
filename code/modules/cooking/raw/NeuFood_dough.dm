@@ -558,7 +558,7 @@
 	rotprocess = SHELFLIFE_LONG
 
 /obj/item/reagent_containers/food/snacks/zybcake
-	name = "zaladin cake base"
+	name = "zyubuntu cake base"
 	desc = "With this sweet thing, you shall make them sing. Lacking spider-honey glazing."
 	icon_state = "cake_filled"
 	dropshrink = 0.8
@@ -566,9 +566,9 @@
 	foodtype = GRAIN | DAIRY
 	rotprocess = SHELFLIFE_LONG
 
-// -------------- SPIDER-HONEY CAKE (Zaladin) -----------------
+// -------------- SPIDER-HONEY CAKE (Zyubuntu) -----------------
 /obj/item/reagent_containers/food/snacks/zybcake_ready
-	name = "unbaked zaladin cake"
+	name = "unbaked zyubuntu cake"
 	icon_state = "honeycakeuncook"
 	dropshrink = 0.8
 	slices_num = 0
@@ -577,7 +577,7 @@
 
 /obj/item/reagent_containers/food/snacks/zybcake_cooked
 	name = "zalad cake"
-	desc = "Cake glazed with honey, in the famous Zaladin fashion, a delicious sweet treat. Said to be very hard to poison, perhaps the honey counteracting such malicious concotions."
+	desc = "Cake glazed with honey, in the famous Zyubuntu fashion, a delicious sweet treat. Said to be very hard to poison, perhaps the honey counteracting such malicious concotions."
 	icon_state = "honeycake"
 	dropshrink = 0.8
 	slices_num = 6

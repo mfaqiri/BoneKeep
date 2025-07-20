@@ -133,15 +133,15 @@ While it's not required reading, leadership roles may find this information usef
 	</details>
 
 	<details>
-		<summary><strong> ZALADIN DYNASTY </strong></summary>
+		<summary><strong> ZYUBUNTU DYNASTY </strong></summary>
 		<br>
 		<em>The Red Sands, Empire of the Dunes, Merchants of the Pasha</em>
 		<br><br>
-		A grand-spanning, mercantilist empire which found prosperity and riches from spice export. Zaladin is home to some of the worlds greatest wonders, though the labourers who built them were directed by force and threats rather than passion. The dominant ideologies are Astratanism and Xylixianism. Xylixian freemen and Astratan order-keepers clash often in mortal representations of divine conflict. Zaladians have grown numb to the possibility of a civil war, and these skirmishes have simply become another aspect of daily life.
+		A grand-spanning, mercantilist empire which found prosperity and riches from spice export. Zyubuntu is home to some of the worlds greatest wonders, though the labourers who built them were directed by force and threats rather than passion. The dominant ideologies are Astratanism and Xylixianism. Xylixian freemen and Astratan order-keepers clash often in mortal representations of divine conflict. Zaladians have grown numb to the possibility of a civil war, and these skirmishes have simply become another aspect of daily life.
 		<br><br>
-		Zaladin was known as 'Zybantine' whilst under Grenzelhoftian occupation. It was a title forced upon them rather than chosen, and was violently rejected alongside the repellance of Grenzelhoft's Southern crusades by Zalad armies. In modern times, the term has become considered a grave and bigoted insult.
+		Zyubuntu was known as 'Zybantine' whilst under Grenzelhoftian occupation. It was a title forced upon them rather than chosen, and was violently rejected alongside the repellance of Grenzelhoft's Southern crusades by Zalad armies. In modern times, the term has become considered a grave and bigoted insult.
 		<br><br>
-		Within desperation after the failed conquest, Zaladin's dwindling forces turned to conscription of prisoners-of-war, the first of their slave-armies, forcefully enlisting many captured Grenzelhoftians. These troops are sent to support the front lines of allied Valorian states to the North against Zizo's armies in the Barrows. Regardless of origin, Zaladin's signature "Desert Riders" are a force to reckon- especially when mounted atop their twain-humped pegasi.
+		Within desperation after the failed conquest, Zyubuntu's dwindling forces turned to conscription of prisoners-of-war, the first of their slave-armies, forcefully enlisting many captured Grenzelhoftians. These troops are sent to support the front lines of allied Valorian states to the North against Zizo's armies in the Barrows. Regardless of origin, Zyubuntu's signature "Desert Riders" are a force to reckon- especially when mounted atop their twain-humped pegasi.
 		<br><br>
 	</details>
 
@@ -166,7 +166,7 @@ While it's not required reading, leadership roles may find this information usef
 		<br><br>
 		Valoria is a land of constant strife, bickering city-states with a number of conflicting interests. Yet they bear some pride of their lands, banding together to repel the invading Grenzelhoft Empire out of shared desire for freedom. With conflict comes innovation; the Valorian lands developed pride in their revolution of blade combat strategy and stance. Largely followers of Ravox, they value honour and duels as an expression of status.
 		<br><br>
-		Valoria is renown for their alcohol exports and trade, seconding only Zaladin as most-sought goods.
+		Valoria is renown for their alcohol exports and trade, seconding only Zyubuntu as most-sought goods.
 		<br><br>
 	</details>
 
@@ -175,7 +175,7 @@ While it's not required reading, leadership roles may find this information usef
 		<br>
 		<em> The Great Throngs, The Braided Confederacy, Seven Hammers </em>
 		<br><br>
-		Located in the mountains of continents all over Psydonia. The political aspects stem from federations bearing unique dwarven clans, leaderships, industries, and cultures. The largest establishment is within the great mountain range to the Southeast of Zaladin's deserts. Dwarves and humen empires have established a long history of allyship. Whilst dwarves often choose neutrality in humen-on-humen conflict, a dwarven face is a trusted face to most humens.
+		Located in the mountains of continents all over Psydonia. The political aspects stem from federations bearing unique dwarven clans, leaderships, industries, and cultures. The largest establishment is within the great mountain range to the Southeast of Zyubuntu's deserts. Dwarves and humen empires have established a long history of allyship. Whilst dwarves often choose neutrality in humen-on-humen conflict, a dwarven face is a trusted face to most humens.
 		<br><br>
 	</details>
 
@@ -648,7 +648,7 @@ While it's not required reading, leadership roles may find this information usef
 	<details>
 		<summary><strong> Graggar, The First Greenskin - 2053 </strong></summary>
 		<br>
-		As knaves and brigands descended upon the ruins of Baotha's lands, one warlord gained quick notoriety and power above them all. Graggar, feared by follower and foe alike for his habit of consuming the flesh of his fallen opponents, tore his way through the steppes and forests North of Zaladin, pillaging, destroying, and consuming in endless destruction and gluttony. None were surprised when his exterior grew as monstrous as interior. With feast after feast, conquest after conquest, the first orc's battle cries were soon heard by the heavens themselves, marking him the third mortal to reach ascendance.
+		As knaves and brigands descended upon the ruins of Baotha's lands, one warlord gained quick notoriety and power above them all. Graggar, feared by follower and foe alike for his habit of consuming the flesh of his fallen opponents, tore his way through the steppes and forests North of Zyubuntu, pillaging, destroying, and consuming in endless destruction and gluttony. None were surprised when his exterior grew as monstrous as interior. With feast after feast, conquest after conquest, the first orc's battle cries were soon heard by the heavens themselves, marking him the third mortal to reach ascendance.
 		<br><br>
 	</details>
 
