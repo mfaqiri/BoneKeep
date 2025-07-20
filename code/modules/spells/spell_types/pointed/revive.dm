@@ -29,7 +29,7 @@
 		return FALSE
 	return TRUE
 
-/datum/action/cooldown/spell/revive/before_cast()
+/datum/action/cooldown/spell/revive/before_cast(mob/living/carbon/human/cast_on)
 	. = ..()
 	if(. & SPELL_CANCEL_CAST)
 		return
@@ -59,7 +59,7 @@
 		reset_spell_cooldown()
 		return . | SPELL_CANCEL_CAST
 
-/datum/action/cooldown/spell/revive/cast()
+/datum/action/cooldown/spell/revive/cast(mob/living/carbon/human/cast_on)
 	. = ..()
 	if(QDELETED(target_cross))
 		return
