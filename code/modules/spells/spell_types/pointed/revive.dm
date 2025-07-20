@@ -27,7 +27,7 @@
 	. = ..()
 	if(!.)
 		return FALSE
-	return ishuman(cast_on)
+	return TRUE
 
 /datum/action/cooldown/spell/revive/before_cast(mob/living/carbon/human/cast_on)
 	. = ..()
