@@ -236,3 +236,5 @@ config/admins.txt
 /stonekeep.json
 code/_compile_options.dm
 *.m.dme
+yarn.lock
+node_modules/.yarn-integrity

@@ -7,7 +7,8 @@
 		BB_HOSTILE_MEOWS = list("Mawwww", "Mrewwww", "mhhhhng..."),
 		BB_HUNGRY_MEOW = list("mrrp...", "mraw..."),
 
-		BB_CAT_RACISM = TRUE,
+		// BB_CAT_RACISM = TRUE,
+		BB_CAT_RACISM = FALSE, // Disabled by default
 		BB_CAT_REST_CHANCE = 1,
 		BB_CAT_SIT_CHANCE = 1,
 		BB_CAT_GET_UP_CHANCE = 2,
