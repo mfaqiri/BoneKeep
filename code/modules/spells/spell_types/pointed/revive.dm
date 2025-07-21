@@ -27,7 +27,7 @@
 	. = ..()
 	if(!.)
 		return FALSE
-	return ishuman(cast_on)
+	return TRUE
 
 /datum/action/cooldown/spell/revive/before_cast(mob/living/carbon/human/cast_on)
 	. = ..()
@@ -36,11 +36,6 @@
 
 	if(cast_on.stat != DEAD)
 		to_chat(owner, span_warning("There is no way to revive the living!"))
-		reset_spell_cooldown()
-		return . | SPELL_CANCEL_CAST
-
-	if(cast_on.get_lux_status() != LUX_HAS_LUX)
-		to_chat(owner, span_warning("This filth cannot be revived by holy light!"))
 		reset_spell_cooldown()
 		return . | SPELL_CANCEL_CAST
 

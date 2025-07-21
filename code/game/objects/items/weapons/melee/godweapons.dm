@@ -136,8 +136,6 @@
 	if(check_zone(user.zone_selected) != BODY_ZONE_CHEST)
 		return
 	var/mob/living/carbon/human/H = target
-	if(H.get_lux_status() != LUX_HAS_LUX)
-		return
 	var/dead = H.stat == DEAD
 	if((H.health < H.crit_threshold) || dead)
 		var/speed = dead ? 3 SECONDS : 7 SECONDS
@@ -155,16 +153,10 @@
 		if(do_after(user, 0.5 SECONDS, target))
 			C.add_wound(/datum/wound/fracture/chest)
 
-		new /obj/item/reagent_containers/lux(get_turf(target))
-
-		H.apply_status_effect(/datum/status_effect/buff/lux_drained)
-		SEND_SIGNAL(user, COMSIG_LUX_EXTRACTED, target)
 		record_featured_stat(FEATURED_STATS_CRIMINALS, user)
-		GLOB.osseus_round_stats[STATS_LUX_HARVESTED]++
 
 		H.add_splatter_floor()
 		H.adjustBruteLoss(20)
-		visible_message(user, span_notice("Neant's blade draws the lux from [target]!"))
 
 /obj/item/weapon/polearm/neant/proc/handle_magick(mob/living/user, atom/target)
 	if(!COOLDOWN_FINISHED(src, fire_projectile))
