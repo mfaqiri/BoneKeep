@@ -164,11 +164,14 @@
 	RACE_AASIMAR,\
 	RACE_ELF,\
 	RACE_HALF_ELF,\
+	RACE_DROW,\
 	RACE_HALF_DROW,\
 	RACE_TIEFLING,\
 	RACE_HARPY,\
 	RACE_RAKSHARI,\
 	RACE_TRITON,\
+	RACE_HOLLOWKIN,\
+	RACE_HALF_ORC,\
 )
 
 /// Foreigner Nobility Species - No Tiefling (you know why) or hollow-kin
